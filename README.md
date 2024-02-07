@@ -1,37 +1,29 @@
-<p align="center">
-  <img src="https://te.legra.ph/file/8e779ca298fb47f368f2b.jpg" alt="StringGen">
+<h1 align="center"><b>[✨🥀] ™°‌ 🫧 ☆🇹𝐇𝐔𝐍𝐃𝐄𝐑 𝐎𝐏☆ [✨🥀]</b></h1>
 
- 
-### 🤤 ғᴇᴀᴛᴜʀᴇs
+<h4 align="center"> 𝐀 𝐏𝐎𝐖𝐄𝐑𝐅𝐔𝐋 🇹𝐇𝐔𝐍𝐃𝐄𝐑 𝐒𝐏𝐀𝐌𝐁𝐎𝐓𝐒</h4>
 
-- [»] sᴜᴩᴩᴏʀᴛs ᴩʏʀᴏɢʀᴀᴍ ᴠ2 🔥
-- [»] sᴀғᴇsᴛ ʙᴏᴛ ᴇᴠᴇʀ 🔥
-- [»] sᴜᴩᴩᴏʀᴛs ᴩʏʀᴏɢʀᴀᴍ ᴀɴᴅ ᴛᴇʟᴇᴛʜᴏɴ 🔥
-- [»] sᴜᴩᴩᴏʀᴛs sᴇssɪᴏɴ ɢᴇɴ ғᴏʀ ʙᴏᴛғᴀᴛʜᴇʀ ʙᴏᴛs
-
-### 🚀 ᴅᴇᴘʟᴏʏ ᴛᴏ ʜᴇʀᴏᴋᴜ
-  
-  <p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/itzshukla/STRANGER-STRING-GEN"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://t.me/itz_R2h"><img src="https://telegra.ph/file/36c4afc56b67cd5aafd57.jpg" width="400"></a></p>0
 
 
-
-### 🙄 ᴅᴇᴍᴏ/ᴛᴇsᴛ ʙᴏᴛ
-  
-  [sᴛʀɪɴɢ ʙᴏᴛ 🍑](https://telegram.me/StringSesssionGeneratorRobot)
-
-```
-Atleast Give A Star and Fork The Repo 🖤
-```
-
-## 🗒️ ɴᴇᴄᴇssᴀʀʏ ᴠᴀʀs
-
-☞ `API_ID` - Get your API_ID from [my.telegram.org](https://my.telegram.org/apps)<br>
-☞ `API_HASH` - Get your API_HASH from [my.telegram.org](https://my.telegram.org/apps)<br>
-☞ `BOT_TOKEN` - Get your BOT_TOKEN from [@BotFather](https://t.me/BotFather)<br>
-☞ `MONGO_DB_URI` - Get MONGO_DB_URI from [MongoDB.com](https://cloud.mongodb.com)<br>
+> ⭐️ Thanks to everyone for using this op ™°‌ 🫧 ☆🇹𝐇𝐔𝐍𝐃𝐄𝐑 𝐎𝐏☆. That is the greatest pleasure we have !
 
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+# ᴅᴇᴘʟᴏʏᴍᴇɴᴛ
 
 
+<details>
+<summary><b>ᴅᴇᴘʟᴏʏ ᴛᴏ ʜᴇʀᴏᴋᴜ</b></summary>
+<br>
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/Altamasf/R2h-String-Gen)
+
+</details>
+
+
+<details>
+<summary><b>sᴜᴘᴘᴏʀᴛ</b></summary>
+<br>
+
+<a href="https://t.me/itz_R2h"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
+
+</details>
